@@ -1,11 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hey, I am Sahil!
+
+I currently work as a Project Manager at Global Action for Policy Lab at Northeastern, where I lead projects in APAC aimed at economic development through research and analysis. Previously, I worked as an Associate at the CEO's Office at Cambridge Wealth - an early-stage fintech startup focused in the wealth management space. I hold a degree in economics from the Gokhale Insitute of Politics and Economics in Pune. While at university, I interned with research institutions such as Stanford Doerr School of Sustainability, Policy Research Organisation and technology startups including Moonraft Innovation Labs and Evolve Inc.
+
+My interests include largely everything related to economics - but more specifically I care deeply for areas revolving around macroeconomics, financial markets, decarbonisation and machine learning. 
+
+Apart from all this, I enjoy playing football, listening to metal music and am deeply passionate about travelling with the sole purpose of eating
+
+
+
+
+ and decarbonization.
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
